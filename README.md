@@ -22,12 +22,8 @@ git clone https://github.com/AbduRohim313/windowsExplorerInConsole.git
 
 ```bash```
 cd your-repo-name
-### 4. Построение проекта
-Выполните следующую команду, чтобы собрать проект:
 
-```bash```
-dotnet build
-### 5. Запуск проекта
+### 4. Запуск проекта
 Для запуска проекта выполните команду:
 
 ```bash```
